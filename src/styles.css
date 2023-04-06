@@ -1,0 +1,12 @@
+.flex {
+  display: flex;
+  gap: 10px;
+}
+
+.flex > div {
+  min-width: 10px;
+}
+
+.flex > .task-name {
+  width: 100px;
+}
